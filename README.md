@@ -11,7 +11,7 @@
 <a href='https://arxiv.org/abs/2603.12264'>
     <img src='https://img.shields.io/badge/Paper-2603.12264-brown?style=flat&logo=arXiv' alt='arXiv PDF'>
   </a>
-  <a href='https://huggingface.co/datasets/VisionXLab/RISE-Video'>
+  <a href='https://huggingface.co/datasets/VisionXLab/GRADE'>
     <img src='https://img.shields.io/badge/Huggingface-Data-blue?style=flat&logo=huggingface' alt='data img/data'>
   </a>
 </p>
@@ -150,4 +150,5 @@ Each evaluation stage checks for existing result files before processing. If a r
       url={https://arxiv.org/abs/2603.12264}, 
 }
 ```
+
 

@@ -8,8 +8,8 @@
 
 
 <p align="center">
-<a href='https://arxiv.org/abs/xx'>
-    <img src='https://img.shields.io/badge/Paper-xxxx.xxxx-brown?style=flat&logo=arXiv' alt='arXiv PDF'>
+<a href='https://arxiv.org/abs/2603.12264'>
+    <img src='https://img.shields.io/badge/Paper-2603.12264-brown?style=flat&logo=arXiv' alt='arXiv PDF'>
   </a>
   <a href='https://huggingface.co/datasets/VisionXLab/RISE-Video'>
     <img src='https://img.shields.io/badge/Huggingface-Data-blue?style=flat&logo=huggingface' alt='data img/data'>
@@ -140,9 +140,14 @@ Each evaluation stage checks for existing result files before processing. If a r
 ## Citation
 
 ```bibtex
-@article{grade2026,
-  title={GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing},
-  author={},
-  year={2026}
+@misc{liu2026gradebenchmarkingdisciplineinformedreasoning,
+      title={GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing}, 
+      author={Mingxin Liu and Ziqian Fan and Zhaokai Wang and Leyao Gu and Zirun Zhu and Yiguo He and Yuchen Yang and Changyao Tian and Xiangyu Zhao and Ning Liao and Shaofeng Zhang and Qibing Ren and Zhihang Zhong and Xuanhe Zhou and Junchi Yan and Xue Yang},
+      year={2026},
+      eprint={2603.12264},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.12264}, 
 }
 ```
+

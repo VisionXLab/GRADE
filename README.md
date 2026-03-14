@@ -6,6 +6,30 @@
 
 <h1 align="center"> <img src="images/logo_transparent.png" width="29" height="27"> GRADE: <b>G</b>rounded <b>R</b>easoning <b>A</b>ssessment for <b>D</b>iscipline-informed <b>E</b>diting </h1>
 
+<p align="center">
+  <b>
+    Mingxin Liu<sup>1,*</sup>, Ziqian Fan<sup>2,*</sup>, Zhaokai Wang<sup>1,*,†</sup>,
+    Leyao Gu<sup>1,*</sup>, Zirun Zhu<sup>1,*</sup>, Yiguo He<sup>1</sup>,
+    Yuchen Yang<sup>3</sup>, Changyao Tian<sup>4</sup>, Xiangyu Zhao<sup>1</sup>,
+    Ning Liao<sup>1</sup>, Shaofeng Zhang<sup>5</sup>, Qibing Ren<sup>1</sup>,
+    Zhihang Zhong<sup>1</sup>, Xuanhe Zhou<sup>1</sup>, Junchi Yan<sup>1</sup>,
+    Xue Yang<sup>1,†</sup>
+  </b>
+</p>
+
+<p align="center">
+  <sup>1</sup> Shanghai Jiao Tong University &nbsp;&nbsp;
+  <sup>2</sup> South China University of Technology &nbsp;&nbsp;
+  <sup>3</sup> Fudan University <br>
+  <sup>4</sup> The Chinese University of Hong Kong &nbsp;&nbsp;
+  <sup>5</sup> University of Science and Technology of China
+</p>
+
+<p align="center">
+  <sup>*</sup> Equal Contribution &nbsp;&nbsp;
+  <sup>†</sup> Corresponding Author
+</p>
+
 
 <p align="center">
 <a href='https://arxiv.org/abs/2603.12264'>
@@ -13,6 +37,9 @@
   </a>
   <a href='https://huggingface.co/datasets/VisionXLab/GRADE'>
     <img src='https://img.shields.io/badge/Huggingface-Data-blue?style=flat&logo=huggingface' alt='data img/data'>
+  </a>
+  <a href='https://grade-bench.github.io/'>
+    <img src='https://img.shields.io/badge/Project-Page-green?style=flat&logo=googlechrome&logoColor=white' alt='project page'>
   </a>
 </p>
 

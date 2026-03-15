@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>
-    Mingxin Liu<sup>1,*</sup>, Ziqian Fan<sup>2,*</sup>, Zhaokai Wang<sup>1,*,†</sup>,
+    Mingxin Liu<sup>1,*</sup>, Ziqian Fan<sup>2,*</sup>, Zhaokai Wang<sup>1,*</sup>,
     Leyao Gu<sup>1,*</sup>, Zirun Zhu<sup>1,*</sup>, Yiguo He<sup>1</sup>,
     Yuchen Yang<sup>3</sup>, Changyao Tian<sup>4</sup>, Xiangyu Zhao<sup>1</sup>,
     Ning Liao<sup>1</sup>, Shaofeng Zhang<sup>5</sup>, Qibing Ren<sup>1</sup>,

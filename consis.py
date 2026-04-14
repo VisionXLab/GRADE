@@ -8,9 +8,26 @@ from tqdm import tqdm
 from tqdm.contrib.concurrent import process_map
 
 # Function to encode the image
-def encode_image(image_path):
-    with open(image_path, "rb") as image_file:
-        return base64.b64encode(image_file.read()).decode("utf-8")
+def encode_image(image_path, target_size=1024, fmt="JPEG"):
+    img = Image.open(image_path)
+    if img.mode in ('RGBA', 'P'):
+        img = img.convert('RGB')
+    
+    if target_size is not None and target_size > 0:
+        w, h = img.size
+        if max(w, h) > target_size:
+            if w >= h:
+                new_w = target_size
+                new_h = int(h * target_size / w)
+            else:
+                new_h = target_size
+                new_w = int(w * target_size / h)
+            img = img.resize((new_w, new_h), Image.LANCZOS)
+        
+    img_buffer = io.BytesIO()
+    img.save(img_buffer, format=fmt)
+    image_data = img_buffer.getvalue()
+    return base64.b64encode(image_data).decode('utf-8')
 
 def eval_one(args):   
     data, result_json, judge, API_CONFIG = args  

@@ -7,6 +7,7 @@ from concurrent.futures import ProcessPoolExecutor
 from tqdm import tqdm
 from tqdm.contrib.concurrent import process_map
 from PIL import Image
+import io
 
 # Function to encode the image
 def encode_image(image_path, target_size=1024, fmt="JPEG"):

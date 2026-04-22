@@ -144,7 +144,6 @@ def eval_one(args):
                 json.dump(log, f, indent=4, ensure_ascii=False)
             flag = 10
         except Exception as e:
-            print(raw_response)
             print(f"{id}: ", str(e))
             flag += 1
             continue

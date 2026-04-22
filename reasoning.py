@@ -6,6 +6,8 @@ from concurrent.futures import ProcessPoolExecutor
 from tqdm import tqdm
 from tqdm.contrib.concurrent import process_map
 import re
+from PIL import Image
+import io
 
 system_message = """
   You are an expert-level evaluator for multidisciplinary image editing task. 

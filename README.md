@@ -65,8 +65,9 @@ GRADE is the first benchmark for evaluating discipline-informed knowledge and re
 | Model | Reasoning | Consistency | Readability | Accuracy |
 |-------|:---------:|:-----------:|:-----------:|:--------:|
 | **Closed Source Models** | | | | |
-| <img src="images/google.png" width="25" height="25"> Nano Banana Pro | **77.5** | **89.5** | 95.8 | **46.2** |
-| <img src="images/google.png" width="25" height="25"> Nano Banana 2 | 72.6 | 86.4 | **95.9** | 39.6 |
+| <img src="images/openai.png" width="25" height="25"> GPT-Image-2 | **82.2** | **94.4** | **98.8** | **56.0** |
+| <img src="images/google.png" width="25" height="25"> Nano Banana Pro | 77.5 | 89.5 | 95.8 | 46.2 |
+| <img src="images/google.png" width="25" height="25"> Nano Banana 2 | 72.6 | 86.4 | 95.9 | 39.6 |
 | <img src="images/bytedance.png" width="20" height="20"> Seedream 5.0 | 64.1 | 87.5 | 90.6 | 24.7 |
 | <img src="images/openai.png" width="25" height="25"> GPT-Image-1.5 | 54.5 | 82.3 | 90.7 | 16.0 |
 | <img src="images/black-forest-labs.png" width="25" height="25"> FLUX.2 Max | 47.8 | 67.2 | 68.6 | 11.9 |

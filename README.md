@@ -78,6 +78,7 @@ GRADE is the first benchmark for evaluating discipline-informed knowledge and re
 | <img src="images/bytedance.png" width="20" height="20"> Seedream 4.0 | 32.4 | 53.2 | 77.0 | 3.1 |
 | **Open Source Models** | | | | |
 | <img src="images/qwen.png" width="25" height="25"> Qwen-Edit-2511 | 18.6 | 45.2 | 52.1 | 2.7 |
+| <img src="images/black-forest-labs.png" width="25" height="25"> FLUX.2 dev | 23.0 | 56.4 | 69.0 | 2.1 |
 | <img src="images/stepfun.png" width="25" height="25"> Step-1x (think+reflect) | 19.2 | 57.2 | 66.9 | 2.3 |
 | <img src="images/stepfun.png" width="25" height="25"> Step-1x (think) | 17.6 | 56.3 | 68.2 | 1.4 |
 | <img src="images/dream.png" width="20" height="20"> DreamOmni | 17.4 | 83.2 | 89.1 | 1.0 |
@@ -85,7 +86,6 @@ GRADE is the first benchmark for evaluating discipline-informed knowledge and re
 | <img src="images/bytedance.png" width="20" height="20"> Bagel | 15.2 | 58.6 | 69.8 | 0.6 |
 | <img src="images/bytedance.png" width="20" height="20"> Bagel (think) | 15.6 | 54.8 | 67.8 | 0.2 |
 | <img src="images/icedit.jpeg" width="23" height="23"> ICEdit | 9.8 | 33.2 | 56.5 | 0.2 |
-| <img src="images/black-forest-labs.png" width="25" height="25"> FLUX.2 dev | 11.3 | 17.6 | 49.6 | 0.2 |
 | <img src="images/baai.jpg" width="25" height="20"> OmniGen | 9.7 | 33.6 | 51.6 | 0.0 |
 
 </div>

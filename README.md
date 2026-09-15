@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <sup>*</sup> Equal Contribution &nbsp;&nbsp;
+  <sup>*</sup> Core Contributor &nbsp;&nbsp;
   <sup>†</sup> Corresponding Author
 </p>
 

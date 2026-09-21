@@ -77,6 +77,7 @@ GRADE is the first benchmark for evaluating discipline-informed knowledge and re
 | <img src="images/black-forest-labs.png" width="25" height="25"> FLUX.2 Pro | 38.9 | 55.5 | 70.3 | 4.4 |
 | <img src="images/bytedance.png" width="20" height="20"> Seedream 4.0 | 32.4 | 53.2 | 77.0 | 3.1 |
 | **Open Source Models** | | | | |
+| <img src="images/qwen.png" width="25" height="25"> Qwen-Image-2.1 | 25.7 | 89.0 | 86.3 | 3.6 |
 | <img src="images/qwen.png" width="25" height="25"> Qwen-Edit-2511 | 18.6 | 45.2 | 52.1 | 2.7 |
 | <img src="images/black-forest-labs.png" width="25" height="25"> FLUX.2 dev | 23.0 | 56.4 | 69.0 | 2.1 |
 | <img src="images/stepfun.png" width="25" height="25"> Step-1x (think+reflect) | 19.2 | 57.2 | 66.9 | 2.3 |

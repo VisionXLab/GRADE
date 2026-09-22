@@ -65,7 +65,8 @@ GRADE is the first benchmark for evaluating discipline-informed knowledge and re
 | Model | Reasoning | Consistency | Readability | Accuracy |
 |-------|:---------:|:-----------:|:-----------:|:--------:|
 | **Closed Source Models** | | | | |
-| <img src="images/openai.png" width="25" height="25"> GPT-Image-2 | **82.2** | **94.4** | **98.8** | **56.0** |
+| <img src="images/openai.png" width="25" height="25"> GPT-6-Astra (image tool)‡ | **84.4** | **97.4** | 92.8 | **56.9** |
+| <img src="images/openai.png" width="25" height="25"> GPT-Image-2 | 82.2 | 94.4 | **98.8** | 56.0 |
 | <img src="images/qwen.png" width="25" height="25"> Qwen-Image-3.0-Pro | 79.3 | 95.1 | 91.5 | 50.8 |
 | <img src="images/google.png" width="25" height="25"> Nano Banana Pro | 77.5 | 89.5 | 95.8 | 46.2 |
 | <img src="images/google.png" width="25" height="25"> Nano Banana 2 | 72.6 | 86.4 | 95.9 | 39.6 |
@@ -92,6 +93,7 @@ GRADE is the first benchmark for evaluating discipline-informed knowledge and re
 
 </div>
 
+‡ Evaluated on 520 original-input samples through the Responses API with `tools: [{"type": "image_generation"}]`; the image model was not specified and was not disclosed by the gateway.
 
 ---
 

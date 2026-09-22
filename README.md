@@ -66,6 +66,7 @@ GRADE is the first benchmark for evaluating discipline-informed knowledge and re
 |-------|:---------:|:-----------:|:-----------:|:--------:|
 | **Closed Source Models** | | | | |
 | <img src="images/openai.png" width="25" height="25"> GPT-Image-2 | **82.2** | **94.4** | **98.8** | **56.0** |
+| <img src="images/qwen.png" width="25" height="25"> Qwen-Image-3.0-Pro† | 79.3 | 95.1 | 91.5 | 50.8 |
 | <img src="images/google.png" width="25" height="25"> Nano Banana Pro | 77.5 | 89.5 | 95.8 | 46.2 |
 | <img src="images/google.png" width="25" height="25"> Nano Banana 2 | 72.6 | 86.4 | 95.9 | 39.6 |
 | <img src="images/bytedance.png" width="20" height="20"> Seedream 5.0 | 64.1 | 87.5 | 90.6 | 24.7 |
@@ -90,6 +91,8 @@ GRADE is the first benchmark for evaluating discipline-informed knowledge and re
 | <img src="images/baai.jpg" width="25" height="20"> OmniGen | 9.7 | 33.6 | 51.6 | 0.0 |
 
 </div>
+
+† Evaluated on 520 samples; one input (`chemistry_task_89`) was resized and white-padded after the original repeatedly returned HTTP 503. This is a compatibility result, not a strict original-input run.
 
 ---
 

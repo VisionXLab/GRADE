@@ -83,6 +83,7 @@ GRADE is the first benchmark for evaluating discipline-informed knowledge and re
 | <img src="images/qwen.png" width="25" height="25"> Qwen-Edit-2511 | 18.6 | 45.2 | 52.1 | 2.7 |
 | <img src="images/black-forest-labs.png" width="25" height="25"> FLUX.2 dev | 23.0 | 56.4 | 69.0 | 2.1 |
 | <img src="images/stepfun.png" width="25" height="25"> Step-1x (think+reflect) | 19.2 | 57.2 | 66.9 | 2.3 |
+| <img src="images/hunyuan.png" width="25" height="25"> HunyuanImage 3.0 | 21.9 | 69.7 | 72.8 | 1.9 |
 | <img src="images/stepfun.png" width="25" height="25"> Step-1x (think) | 17.6 | 56.3 | 68.2 | 1.4 |
 | <img src="images/dream.png" width="20" height="20"> DreamOmni | 17.4 | 83.2 | 89.1 | 1.0 |
 | <img src="images/stepfun.png" width="25" height="25"> Step-1x | 17.3 | 52.8 | 63.7 | 1.0 |
